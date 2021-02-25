@@ -1,0 +1,33 @@
+html{
+    background-color: #364371;
+font-family: Lora;
+font-size: 15px;
+}
+#wrap{
+    display: flex;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 50px;
+    padding: 10px;
+    height: 451px;
+}
+div#nav{
+    background-color:#B0CFFF ;
+    width: 15%;
+    float: left;
+}
+#nav li{
+    text-align: left;
+}
+div#content{
+    background-color:#5B7FBD ;
+    width: 60%;    
+    padding: 20px;
+}
+#content li{
+    list-style-type: none;
+    text-align: center;
+}
+.copyright{
+    background-color: #364371;
+}

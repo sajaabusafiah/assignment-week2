@@ -1,0 +1,24 @@
+html{
+background-color: rgb(66, 197, 197);
+font-family:Lora
+
+;
+
+}
+
+li{
+    text-align: center;
+    line-height: 27px;
+    list-style-type: none;
+}
+li::first-letter{
+    text-transform: capitalize;
+    font-size: 25px;
+
+}
+div#wrap{
+    border: none;
+    width: 60%;
+    align-content: center;
+    margin-left: 20%;
+}
